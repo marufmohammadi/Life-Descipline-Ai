@@ -1,0 +1,6 @@
+{
+  "name": "Life Discipline AI",
+  "description": "AI-powered discipline coaching, habit tracking, and dynamic routine optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
